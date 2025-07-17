@@ -13,6 +13,12 @@ console.log("hello world");
 //git config --global user.name "github username"
 
 //push
-//git add .
+
+//git add .   ---> add to staging area
+//git commit -m "message for adding files"
+//git remote add origin url
+//git branch-M main
+//git push -u origin main
+
 
 
