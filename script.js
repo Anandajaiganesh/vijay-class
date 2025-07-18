@@ -27,22 +27,5 @@ console.log("hello world");
 
 // clone repositary to local -->when joined in a new project
 
-// copy the repositary url
-// open commnd prompt
-// git clone url ----->brings the online repositary to local folder
-
-
-// Pull
-// git pull    ----> pull the new changes in the online repositary
-
-//Branch
-//git branch  ----> to see the current branch
-//git branch Anandworks  ---> create a new branch named Anandworks
-//git checkout Anandworks  --->goes into Anandworks branch
-// git add .   
-// git commit -m "message for adding files"
-// git push -u 
-
-//git checkout -b Jaiworks   ---->creare a new branch and goes into Jaiworks branch
 
 
