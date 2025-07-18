@@ -1,10 +1,7 @@
 console.log("hello world");
 
 
-
 //git commands
-
-//git init- initialize git empty repositary
 
 
 //1st time use
@@ -14,6 +11,7 @@ console.log("hello world");
 
 //1st push in new repositary
 
+//git init    ----> initialize git empty repositary
 //git add .   ---> add to staging area
 //git commit -m "message for adding files"
 //git remote add origin url
@@ -25,3 +23,13 @@ console.log("hello world");
 //git add .   ---> add to staging area
 //git commit -m "message for adding files"
 //git push -u origin main
+
+
+// clone repositary to local
+
+//copy the repositary url
+//open commnd prompt
+//git clone url ----->brings the online repositary to local folder
+
+
+
