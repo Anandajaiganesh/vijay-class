@@ -41,4 +41,8 @@ console.log("hello world");
 //git checkout Anandworks  --->goes into Anandworks branch
 // git add .   
 // git commit -m "message for adding files"
-// git push -u origin main
+// git push -u 
+
+//git checkout -b Jaiworks   ---->creare a new branch and goes into Jaiworks branch
+
+
