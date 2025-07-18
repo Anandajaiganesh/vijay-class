@@ -12,7 +12,7 @@ console.log("hello world");
 //git config --global user.email "abc@gmail.com"
 //git config --global user.name "github username"
 
-//push
+//1st push in new repositary
 
 //git add .   ---> add to staging area
 //git commit -m "message for adding files"
@@ -20,5 +20,8 @@ console.log("hello world");
 //git branch-M main
 //git push -u origin main
 
+//update an existing repositary
 
-
+//git add .   ---> add to staging area
+//git commit -m "message for adding files"
+//git push -u origin main
